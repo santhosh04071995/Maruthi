@@ -1,0 +1,18 @@
+.mystyle{
+    position:relative;
+    z-index: 2;
+}
+ .logo {
+    width: 100px;
+    } 
+ /* .nav_space{
+    margin-left: 30px;
+    margin-right: 30px;
+} */
+.bg_body_tertiary{
+    background-color: unset;
+}
+ 
+.navbar_collapse{
+    flex-grow: unset;
+}
